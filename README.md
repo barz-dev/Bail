@@ -100,7 +100,7 @@ await client.relayMessage(m.chat, {
     thumbnail: { url: "./ZeppImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/YuukeyD7eppeli",
+    url: "https://t.me/barzpuai",
     body: "Nak Tido",
     footer: "Footer",
     buttons: [
@@ -113,9 +113,4 @@ await client.relayMessage(m.chat, {
     currencyCode: "IDR"
   }
 })
-```
-Follow https://t.me/TenkaWaBails kalau mau liat type message yg lain :v
-=======
-# Bail
-🔥 BARZLULA BAILEYS - WhatsApp Web API Modded 
->>>>>>> 5fda07d9231736f9e99a9f05ef9400af41c4446c
+``
