@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modified Whatsapp-API
 <p align='center'>
   <img src="https://files.catbox.moe/rhm9rt.webp" width="172">
@@ -114,3 +115,7 @@ await client.relayMessage(m.chat, {
 })
 ```
 Follow https://t.me/TenkaWaBails kalau mau liat type message yg lain :v
+=======
+# Bail
+🔥 BARZLULA BAILEYS - WhatsApp Web API Modded 
+>>>>>>> 5fda07d9231736f9e99a9f05ef9400af41c4446c
